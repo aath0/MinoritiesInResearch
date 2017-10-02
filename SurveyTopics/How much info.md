@@ -1,6 +1,6 @@
-## To which extent are members of URM informed about research that directly concerns them?
+### To which extent are members of URM informed about research that directly concerns them?
 
-###Example questions:
+#### Example questions:
 
 * Have you heard of any new scientific study in the last year?
 * If yes, approximately how many?

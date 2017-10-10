@@ -1,6 +1,6 @@
 # How does research treat underrepresented minorities?
 
-### Welcome! :confeti_ball:
+### Welcome! :confetti_ball:
 
 Thank you for visiting this repository! Bellow you can find some information about this project:
 
@@ -15,7 +15,8 @@ Thank you for visiting this repository! Bellow you can find some information abo
 * Moreover, most studies are goverened by a divide between researchers and participants: reseachers design studies and make all key decisions. Although participants' views and needs may be totally different, they are rarely consulted! 
 
 #### Our goal
-The goal of this project is to evaluate how members of underrepresented minorities perceive research that directly concerns them. To this aim, we will collectively design a questionnaire to quantify to which extend research that concerns members of geographical, cultural, gender, sexual or other minority groups view research done on them as ethical, useful and respectful.
+* Our goal is to collectively design a questionnaire and use it to evaluate how members of underrepresented minorities perceive research that directly concerns them.
+* We plan to evaluate to which extent individuals find research done in their communities respectful, useful and ethical.
 
-#### Get in touch
+## Get in touch
 For any questions feel free to email bgreshake@googlemail.com or athina.tz@gmail.com

@@ -4,10 +4,9 @@
 
 Thank you for visiting this repository! Bellow you can find some information about this project:
 
-* [What is this the goal of this project?](what-is-the-goal-of-this-project)
+* [What is this the goal of this project?](our-goal)
 * [What can you be involved?](how-can-you-be-involved)
-* [Who are we?](who-are-we)
-* [Contact us!](contact-us)
+* [Get in touch!](get-in-touch)
 
 ## What is the goal of this project?
 
@@ -18,3 +17,5 @@ Thank you for visiting this repository! Bellow you can find some information abo
 #### Our goal
 The goal of this project is to evaluate how members of underrepresented minorities perceive research that directly concerns them. To this aim, we will collectively design a questionnaire to quantify to which extend research that concerns members of geographical, cultural, gender, sexual or other minority groups view research done on them as ethical, useful and respectful.
 
+#### Get in touch
+For any questions feel free to email bgreshake@googlemail.com or athina.tz@gmail.com

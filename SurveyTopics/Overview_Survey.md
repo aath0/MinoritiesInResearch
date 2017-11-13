@@ -7,7 +7,7 @@
 * If other, then specify
 5. What is the highest level of education you have achieved? [Dropdown: Does not apply / Primary school / High school / College / Bachelor / Masters / PhD / MD / Other]
 6. Apart from the LGBT* community, you consider yourself to be member of any other minority group? [yes/no]
-* If yes, please specify
+  * If yes, please specify
 
 *****
 ## 2. Participation in research
@@ -15,5 +15,19 @@
 1. Were you ever directly contacted and asked to participate in any studies? (via email for example) [yes/no]
 2. Have you ever noticed any announcement looking for study participants? (for example online or board announcements) [yes/no]
 * If yes to any of the above, what kind of study was it? [survey/experiment/psychological evaluation]
+3. Did you ever participate in studies that were disrespectful/hurtful to you as a member of an URM?
+  * If yes:
+    * which URMs did these studies target?
+    * what kind of studies were this? (surveys, experiments, …)
+    * in which year was this study performed?
+    * can you elaborate what made this study disrespectful?
+4. Did you participate in studies that treated you as a member of an URM exemplarily?
+  * If yes:
+    * which URMs did these studies target?
+    * what kind of studies were this? (surveys, experiments, …)
+    * in which year was this study performed?
+    * can you elaborate what made this study particularly good?
+    
+    
 
 

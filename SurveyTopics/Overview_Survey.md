@@ -1,7 +1,7 @@
 ## 1. Demographics
 
 1. What is your age? [blank box]
-2. What is your place of residence? [Country] [City]
+2. What is your place of residence? [Country] 
 3. What is your place of origin? (If more than one please note the place where you spent most of your childhood, or the place to which you most closely relate to) [Country] [City]
 4. What is your gender? [female/male/other]
 * If other, then specify

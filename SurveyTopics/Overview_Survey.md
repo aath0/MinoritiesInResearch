@@ -16,21 +16,21 @@
 2. Have you ever noticed any announcement looking for study participants? (for example online or board announcements) [yes/no]
    * If yes to any of the above, what kind of study was it? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging/commercial-marketing study]
 3. Did you ever participate in studies that were disrespectful/hurtful to you as a member of an URM?
-  * If yes:
-    * which URMs did these studies target?
-    * what kind of studies were these? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
-    * in which year was this study performed?
-    * can you elaborate what made this study disrespectful?
+   * If yes:
+     * which URMs did these studies target?
+     * what kind of studies were these? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
+     * in which year was this study performed?
+     * can you elaborate what made this study disrespectful?
 4. Did you participate in studies that treated you as a member of an URM exemplarily?
-  * If yes:
-    * which URMs did these studies target?
-    * what kind of studies were this? (surveys, experiments, …)
-    * in which year was this study performed?
-    * can you elaborate what made this study particularly good?
+   * If yes:
+     * which URMs did these studies target?
+     * what kind of studies were this? (surveys, experiments, …)
+     * in which year was this study performed?
+     * can you elaborate what made this study particularly good?
 
 *****
 ## 3. Perception of research
 
 1. Do you remember hearing about any research studies that concerned matters around one or multiple LGBTQ* communities?
- * If yes:
-   1. fdf
+   * If yes:
+     1. fdf

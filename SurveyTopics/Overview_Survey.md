@@ -1,6 +1,6 @@
 ## 1. Demographics
 
-1. What is your age? [blank box]
+1. What is your age range? [18-25 / 25-35 / 35-45 / 45-55/ 55-65 / 65-75 / 75+]
 2. What is your place of residence? [Country] 
 3. What is your place of origin? (If more than one please note the place where you spent most of your childhood, or the place to which you most closely relate to) [Country] 
 4. What is your gender? [female/male/other]

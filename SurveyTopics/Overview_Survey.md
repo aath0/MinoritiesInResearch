@@ -12,9 +12,9 @@
 *****
 ## 2. Participation in research
 
-1. Were you ever directly contacted and asked to participate in any studies? (for example, via email) [yes/no]
+1. Were you ever directly contacted and asked to participate in any academic studies? (for example, via email) [yes/no]
 2. Have you ever noticed any announcement looking for study participants? (for example online or board announcements) [yes/no]
-* If yes to any of the above, what kind of study was it? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
+* If yes to any of the above, what kind of study was it? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging/commercial-marketing study]
 3. Did you ever participate in studies that were disrespectful/hurtful to you as a member of an URM?
   * If yes:
     * which URMs did these studies target?

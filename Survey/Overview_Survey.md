@@ -3,7 +3,7 @@
 1. What is your age range? [18-25 / 25-35 / 35-45 / 45-55/ 55-65 / 65-75 / 75+]
 2. What is your place of residence? [Country] 
 3. What is your place of origin? (If more than one please note the place where you spent most of your childhood, or the place to which you most closely relate to) [Country] 
-4. What is your gender? [female/male/other]
+4. What is your gender? [female/male/non-binary-third gender/other/prefer not to say] (reference: https://www.hrc.org/resources/collecting-transgender-inclusive-gender-data-in-workplace-and-other-surveys )
    * If other, then specify
 5. What is the highest level of education you have achieved? [Dropdown: Does not apply / Primary school / High school / College / Bachelor / Masters / PhD / MD / Other]
 6. Apart from the LGBT* community, you consider yourself to be member of any other minority group? [yes/no]

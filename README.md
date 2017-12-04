@@ -21,5 +21,7 @@ Thank you for visiting this repository! Bellow you can find some information abo
 ## How can you be involved
 We welcome new contributions and ideas! [Here](https://github.com/aath0/MinoritiesInResearch/issues) you can find a list of the issues we are currently working on. Please take a moment to read our [code of conduct](https://github.com/aath0/MinoritiesInResearch/blob/master/CODE_OF_CONDUCT.md) and guidelines for [contributors](https://github.com/aath0/MinoritiesInResearch/blob/master/CONTRIBUTING.md).
 
+A current draft of our survey can be found in our repository at [`SurveyTopics/Overview_Survey.md`](https://github.com/aath0/MinoritiesInResearch/blob/master/SurveyTopics/Overview_Survey.md).
+
 ## Get in touch
 For any questions feel free to email bgreshake@googlemail.com or athina.tz@gmail.com

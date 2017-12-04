@@ -14,23 +14,31 @@
 
 1. Were you ever directly contacted and asked to participate in any academic studies? (for example, via email) [yes/no]
 2. Have you ever noticed any announcement looking for study participants? (for example online or board announcements) [yes/no]
-   * If yes to any of the above, what kind of study was it? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging/commercial-marketing study]
-3. Did you ever participate in studies that were disrespectful/hurtful to you as a member of an URM?
+3. Did you participate in any of these studies?
    * If yes:
-     * which URMs did these studies target?
-     * what kind of studies were these? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
-     * in which year was this study performed?
-     * can you elaborate what made this study disrespectful?
-4. Did you participate in studies that treated you as a member of an URM exemplarily?
-   * If yes:
-     * which URMs did these studies target?
-     * what kind of studies were this? (surveys, experiments, …)
-     * in which year was this study performed?
-     * can you elaborate what made this study particularly good?
+     1.  Were any of these disrespectful/hurtful to you personally or your community?
+         * If yes: How many studies were these? For each study please answer the following questions:
+           * what kind of study was it? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
+           * in which year was this study performed?
+           * can you elaborate what made this study disrespectful?
+     2. Did you participate in studies that treated you personally or your community exemplarily?
+         * If yes: How many studies were these? For each study please answer the following questions:
+           * what kind of studies were this? (surveys, experiments, …)
+           * in which year was this study performed?
+           * can you elaborate what made this study particularly good?
 
 *****
 ## 3. Perception of research
 
-1. Do you remember hearing about any research studies that concerned matters around one or multiple LGBTQ* communities?
+1. Do you remember hearing about any research studies that concerned matters around one or multiple LGBTQ* communities (either through the media or in announcements looking for study participants)?
    * If yes:
-     1. fdf
+     * Did you feel that any of these were disrespectful/hurtful to you personally or your community?
+       * If yes: How many studies were these? For each study please answer the following questions:
+           * what kind of study was it? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
+           * in which year was this study performed?
+           * can you elaborate what made this study disrespectful?
+     * Did you feel that any of these were treating you or your community exemplarily?
+       * If yes: How many studies were these? For each study please answer the following questions:
+           * what kind of studies were this? (surveys, experiments, …)
+           * in which year was this study performed?
+           * can you elaborate what made this study particularly good?

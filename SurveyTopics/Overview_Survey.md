@@ -18,7 +18,7 @@
 3. Did you ever participate in studies that were disrespectful/hurtful to you as a member of an URM?
   * If yes:
     * which URMs did these studies target?
-    * what kind of studies were this? (surveys, experiments, …)
+    * what kind of studies were these? [click all that apply: survey/clinical trial/psychological evaluation/neuroimaging]
     * in which year was this study performed?
     * can you elaborate what made this study disrespectful?
 4. Did you participate in studies that treated you as a member of an URM exemplarily?

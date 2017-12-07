@@ -24,4 +24,4 @@ We welcome new contributions and ideas! [Here](https://github.com/aath0/Minoriti
 A current draft of our survey can be found in our repository at [`SurveyTopics/Overview_Survey.md`](https://github.com/aath0/MinoritiesInResearch/blob/master/SurveyTopics/Overview_Survey.md).
 
 ## Get in touch
-For any questions feel free to email bgreshake@googlemail.com or athina.tz@gmail.com
+For any questions please join our [gitter channel](https://gitter.im/URM_Research/Lobby#), or feel free to email bgreshake@googlemail.com or athina.tz@gmail.com

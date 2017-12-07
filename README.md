@@ -1,5 +1,7 @@
 # How does research treat underrepresented minorities?
 
+[![Join the chat at https://gitter.im/URM_Research/Lobby](https://badges.gitter.im/URM_Research/Lobby.svg)](https://gitter.im/URM_Research/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Welcome! :confetti_ball:
 
 Thank you for visiting this repository! Bellow you can find some information about this project:

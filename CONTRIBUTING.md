@@ -21,7 +21,7 @@ Additionally, on the [issues](https://github.com/aath0/MinoritiesInResearch/issu
 
 * Designing the questionnaire directions
 * Deciding which questions to include
-* Testing the questionnaire
+* [Testing the questionnaire](https://www.soscisurvey.de/URM_pilot/?act=pzyR1NETeO49OoHtnamDiuNw)
 * Applying for ethical approval
 * Analysing results
 
